@@ -1,0 +1,9 @@
+Mensagens:
+  playerOff: "§cEste jogador parece estar offline!"
+  playersOnly: "§cEste comando só pode ser usado in-game!"
+  invalidArgument: "§cO valor inserido deverá ser numérico!"
+  quantiyMissing: "§cQuantidade em falta! (Linha 2)"
+  priceMissing: "§cPreço em falta! (Linha 3)"
+  shopTypeMissing: "§cTipo de compra em falta! (Linha 4)"
+  shopError: "§cErro ao criar loja!"
+  shopCreated: "§eLoja criada com sucesso!"
